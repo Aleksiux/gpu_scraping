@@ -3,7 +3,6 @@ import time
 from bs4 import BeautifulSoup
 import requests
 
-
 page_range = range(1, 9)
 
 
