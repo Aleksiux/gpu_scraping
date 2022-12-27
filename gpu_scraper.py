@@ -10,7 +10,7 @@ page_range = range(1, 9)
 
 def new_func():
     return ""
-
+# Git pull
 
 def gpu_scraping(gpu_that_needed):
     for n in page_range:
