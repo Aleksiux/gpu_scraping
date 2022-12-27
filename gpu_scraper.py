@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 
 page_range = range(1, 9)
-
+#In New_branch
 
 def gpu_scraping(gpu_that_needed):
     for n in page_range:
